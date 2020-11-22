@@ -1,7 +1,8 @@
 class Translation(object):
     START_TEXT = """ <b> Hi {} , I'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail support!💯</b> \n
 
-<b>Bot Maintained By: @Mai_bOTs</b> \n
+<b>Bot Maintained By: @JoKeR_2006_JBS</b> \n
+For Using Me Join In Our Telegram Group - @Malayalam_Movies_Groups 
 <b>Do /help for more...</b> \n
 """
 
@@ -12,7 +13,7 @@ class Translation(object):
     DOWNLOAD_START = "<b>Downloading To My server !! pls Wait</b>"
     UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TG</b>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @Mai_bOTs  ❤️**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @Malayalam_Movies_Groups  ❤️**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @No_OnE_Kn0wS_Me "
     NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @No_OnE_Kn0wS_Me "
